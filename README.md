@@ -1,4 +1,4 @@
 # zs-practice
 practicing day01
-new readme
+hi i am sharath
 
